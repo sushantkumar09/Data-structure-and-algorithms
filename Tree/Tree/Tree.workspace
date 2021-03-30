@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Tree" Database="" Version="10000">
+  <Project Name="Tree_using_linked_queue" Path="Tree_using_linked_queue/Tree_using_linked_queue.project" Active="Yes"/>
+  <Project Name="Level_order_traversal" Path="Level_order_traversal/Level_order_traversal.project" Active="No"/>
+  <Project Name="Iterative_traversal_method" Path="Iterative_traversal_method/Iterative_traversal_method.project" Active="No"/>
+  <Project Name="Height_and_count" Path="Height_and_count/Height_and_count.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Tree_using_linked_queue" ConfigName="Debug"/>
+      <Project Name="Level_order_traversal" ConfigName="Debug"/>
+      <Project Name="Iterative_traversal_method" ConfigName="Debug"/>
+      <Project Name="Height_and_count" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Tree_using_linked_queue" ConfigName="Release"/>
+      <Project Name="Level_order_traversal" ConfigName="Release"/>
+      <Project Name="Iterative_traversal_method" ConfigName="Release"/>
+      <Project Name="Height_and_count" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

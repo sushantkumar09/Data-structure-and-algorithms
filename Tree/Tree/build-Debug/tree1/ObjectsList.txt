@@ -1,0 +1,1 @@
+../build-Debug/tree1/Queue.cpp.o ../build-Debug/tree1/main.cpp.o   

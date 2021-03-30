@@ -1,0 +1,1 @@
+../build-Debug/Queue_using_2_stacks/main.cpp.o ../build-Debug/Queue_using_2_stacks/Stack.cpp.o   

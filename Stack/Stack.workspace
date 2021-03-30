@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Stack" Database="" Version="10000">
+  <Project Name="Stack_using_array" Path="Stack_using_array/Stack_using_array.project" Active="No"/>
+  <Project Name="Stack_using_linked_list" Path="Stack_using_linked_list/Stack_using_linked_list.project" Active="Yes"/>
+  <Project Name="Stack_class" Path="Stack_class/Stack_class.project" Active="No"/>
+  <Project Name="paranthesis_matching" Path="paranthesis_matching/paranthesis_matching.project" Active="No"/>
+  <Project Name="infix_to_postfix" Path="infix_to_postfix/infix_to_postfix.project" Active="No"/>
+  <Project Name="Stack_class" Path="Stack_class/Stack_class.project" Active="No"/>
+  <Project Name="infix_to_postfix_00" Path="infix_to_postfix_00/infix_to_postfix_00.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Stack_using_array" ConfigName="Debug"/>
+      <Project Name="Stack_using_linked_list" ConfigName="Debug"/>
+      <Project Name="Stack_class" ConfigName="Debug"/>
+      <Project Name="paranthesis_matching" ConfigName="Debug"/>
+      <Project Name="infix_to_postfix" ConfigName="Debug"/>
+      <Project Name="Stack_class" ConfigName="Debug"/>
+      <Project Name="infix_to_postfix_00" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Stack_using_array" ConfigName="Release"/>
+      <Project Name="Stack_using_linked_list" ConfigName="Release"/>
+      <Project Name="Stack_class" ConfigName="Release"/>
+      <Project Name="paranthesis_matching" ConfigName="Release"/>
+      <Project Name="infix_to_postfix" ConfigName="Release"/>
+      <Project Name="Stack_class" ConfigName="Release"/>
+      <Project Name="infix_to_postfix_00" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

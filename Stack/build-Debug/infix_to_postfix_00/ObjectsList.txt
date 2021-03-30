@@ -1,0 +1,1 @@
+../build-Debug/infix_to_postfix_00/Stack.cpp.o ../build-Debug/infix_to_postfix_00/main.cpp.o   

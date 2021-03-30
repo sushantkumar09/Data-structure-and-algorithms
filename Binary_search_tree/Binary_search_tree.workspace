@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Binary_search_tree" Database="" Version="10000">
+  <Project Name="Binary_search_tree_creation" Path="Binary_search_tree_creation/Binary_search_tree_creation.project" Active="No"/>
+  <Project Name="searching_in_BST" Path="searching_in_BST/searching_in_BST.project" Active="No"/>
+  <Project Name="delete_from_Binary_search_tree" Path="delete_from_Binary_search_tree/delete_from_Binary_search_tree.project" Active="No"/>
+  <Project Name="BST_from_preorder" Path="BST_from_preorder/BST_from_preorder.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Binary_search_tree_creation" ConfigName="Debug"/>
+      <Project Name="searching_in_BST" ConfigName="Debug"/>
+      <Project Name="delete_from_Binary_search_tree" ConfigName="Debug"/>
+      <Project Name="BST_from_preorder" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Binary_search_tree_creation" ConfigName="Release"/>
+      <Project Name="searching_in_BST" ConfigName="Release"/>
+      <Project Name="delete_from_Binary_search_tree" ConfigName="Release"/>
+      <Project Name="BST_from_preorder" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Array" Database="" Version="10000">
+  <Project Name="basic_array_operations" Path="insertion/insertion.project" Active="No"/>
+  <Project Name="linear_search" Path="linear_search/linear_search.project" Active="No"/>
+  <Project Name="binary_search" Path="binary_search/binary_search.project" Active="No"/>
+  <Project Name="recursive_binary_search" Path="recursive_binary_search/recursive_binary_search.project" Active="No"/>
+  <Project Name="merg" Path="merg/merg.project" Active="No"/>
+  <Project Name="set_operations" Path="set_operation/set_operation.project" Active="Yes"/>
+  <Project Name="missing_element" Path="missing_element/missing_element.project" Active="No"/>
+  <Project Name="finding_duplicate" Path="finding_duplicate/finding_duplicate.project" Active="No"/>
+  <Project Name="pair_of_element" Path="pair_of_element/pair_of_element.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="basic_array_operations" ConfigName="Debug"/>
+      <Project Name="linear_search" ConfigName="Debug"/>
+      <Project Name="binary_search" ConfigName="Debug"/>
+      <Project Name="recursive_binary_search" ConfigName="Debug"/>
+      <Project Name="merg" ConfigName="Debug"/>
+      <Project Name="set_operations" ConfigName="Debug"/>
+      <Project Name="missing_element" ConfigName="Debug"/>
+      <Project Name="finding_duplicate" ConfigName="Debug"/>
+      <Project Name="pair_of_element" ConfigName="Debug"/>
+      <Project Name="test" ConfigName="Debug"/>
+      <Project Name="test_2" ConfigName="Debug"/>
+      <Project Name="test_3" ConfigName="Debug"/>
+      <Project Name="test_4" ConfigName="Debug"/>
+      <Project Name="test_5" ConfigName="Debug"/>
+      <Project Name="test_6" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="basic_array_operations" ConfigName="Release"/>
+      <Project Name="linear_search" ConfigName="Release"/>
+      <Project Name="binary_search" ConfigName="Release"/>
+      <Project Name="recursive_binary_search" ConfigName="Release"/>
+      <Project Name="merg" ConfigName="Release"/>
+      <Project Name="set_operations" ConfigName="Release"/>
+      <Project Name="missing_element" ConfigName="Release"/>
+      <Project Name="finding_duplicate" ConfigName="Release"/>
+      <Project Name="pair_of_element" ConfigName="Release"/>
+      <Project Name="test" ConfigName="Release"/>
+      <Project Name="test_2" ConfigName="Release"/>
+      <Project Name="test_3" ConfigName="Release"/>
+      <Project Name="test_4" ConfigName="Release"/>
+      <Project Name="test_5" ConfigName="Release"/>
+      <Project Name="test_6" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,1 @@
+../build-Debug/isSorted/main.cpp.o   

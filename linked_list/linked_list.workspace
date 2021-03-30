@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="linked_list" Database="" Version="10000">
+  <Project Name="basic_ll_operations" Path="basic_ll_operations/basic_ll_operations.project" Active="No"/>
+  <Project Name="count_and_sum_ll" Path="count_and_sum_ll/count_and_sum_ll.project" Active="No"/>
+  <Project Name="max_in_ll" Path="max_in_ll/max_in_ll.project" Active="No"/>
+  <Project Name="seaching" Path="seaching/seaching.project" Active="Yes"/>
+  <Project Name="inserting_in_a_ll" Path="inserting_in_a_ll/inserting_in_a_ll.project" Active="No"/>
+  <Project Name="sorted_insert" Path="sorted_insert/sorted_insert.project" Active="No"/>
+  <Project Name="merg" Path="merg/merg.project" Active="No"/>
+  <Project Name="reverse_ll" Path="reverse_ll/reverse_ll.project" Active="No"/>
+  <Project Name="isLoop" Path="isLoop/isLoop.project" Active="No"/>
+  <Project Name="delete" Path="delete/delete.project" Active="No"/>
+  <Project Name="isSorted" Path="isSorted/isSorted.project" Active="No"/>
+  <Project Name="removing_duplicate" Path="removing_duplicate/removing_duplicate.project" Active="No"/>
+  <Project Name="concatinating_ll" Path="concatinating_ll/concatinating_ll.project" Active="No"/>
+  <Project Name="circular_linked_list" Path="circular_linked_list/circular_linked_list.project" Active="No"/>
+  <Project Name="doubly_linked_list" Path="doubly_linked_list/doubly_linked_list.project" Active="No"/>
+  <Project Name="reverse_doubly_linked_list" Path="reverse_doubly_linked_list/reverse_doubly_linked_list.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="basic_ll_operations" ConfigName="Debug"/>
+      <Project Name="count_and_sum_ll" ConfigName="Debug"/>
+      <Project Name="max_in_ll" ConfigName="Debug"/>
+      <Project Name="seaching" ConfigName="Debug"/>
+      <Project Name="inserting_in_a_ll" ConfigName="Debug"/>
+      <Project Name="sorted_insert" ConfigName="Debug"/>
+      <Project Name="merg" ConfigName="Debug"/>
+      <Project Name="reverse_ll" ConfigName="Debug"/>
+      <Project Name="isLoop" ConfigName="Debug"/>
+      <Project Name="delete" ConfigName="Debug"/>
+      <Project Name="isSorted" ConfigName="Debug"/>
+      <Project Name="removing_duplicate" ConfigName="Debug"/>
+      <Project Name="concatinating_ll" ConfigName="Debug"/>
+      <Project Name="circular_linked_list" ConfigName="Debug"/>
+      <Project Name="doubly_linked_list" ConfigName="Debug"/>
+      <Project Name="reverse_doubly_linked_list" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="basic_ll_operations" ConfigName="Release"/>
+      <Project Name="count_and_sum_ll" ConfigName="Release"/>
+      <Project Name="max_in_ll" ConfigName="Release"/>
+      <Project Name="seaching" ConfigName="Release"/>
+      <Project Name="inserting_in_a_ll" ConfigName="Release"/>
+      <Project Name="sorted_insert" ConfigName="Release"/>
+      <Project Name="merg" ConfigName="Release"/>
+      <Project Name="reverse_ll" ConfigName="Release"/>
+      <Project Name="isLoop" ConfigName="Release"/>
+      <Project Name="delete" ConfigName="Release"/>
+      <Project Name="isSorted" ConfigName="Release"/>
+      <Project Name="removing_duplicate" ConfigName="Release"/>
+      <Project Name="concatinating_ll" ConfigName="Release"/>
+      <Project Name="circular_linked_list" ConfigName="Release"/>
+      <Project Name="doubly_linked_list" ConfigName="Release"/>
+      <Project Name="reverse_doubly_linked_list" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
